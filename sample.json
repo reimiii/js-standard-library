@@ -1,0 +1,14 @@
+{
+  "firstName": "Hilmi",
+  "middleName": "Akbar",
+  "lastName": "Muharrom",
+  "address": {
+    "country": "Indonesia",
+    "city": "BGR"
+  },
+  "hobbies": [
+    "Coding",
+    "Game",
+    "MOLOR"
+  ]
+}
